@@ -299,8 +299,8 @@ mypy src/
 
 **Developer**: Meetrajsinh Jadeja
 - 📧 **Email**: [meetrajsinh19.de@gmail.com](mailto:meetrajsinh19.de@gmail.com)
-- 💼 **LinkedIn**: [Meetrajsinh Jadeja](https://linkedin.com/in/meetrajsinh-jadeja)
-- 🐙 **GitHub**: [@meetrajsinh](https://github.com/meetrajsinh)
+- 💼 **LinkedIn**: [Meetrajsinh Jadeja](https://www.linkedin.com/in/meetrajsinh-jadeja-04601a186/)
+- 🐙 **GitHub**: [@meetrajsinh](https://github.com/meetraj19)
 
 
 <div align="center">
