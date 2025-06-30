@@ -1,0 +1,1 @@
+crewai crewai-tools langchain langchain-openai pydantic numpy pandas scikit-learn reportlab
